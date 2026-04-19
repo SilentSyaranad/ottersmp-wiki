@@ -1,4 +1,9 @@
-**Annie the Blacksmith** is an NPC and Vendor located within the spawn. She can be found within the location [The Forge].
+**Annie the Blacksmith** is a Vendor NPC located within the OtterSMP spawn. She can normally be found within the location [The Forge] which can be quickly accessed through the /forge teleport command. 
 
 ## Purpose
-Annie is used for multiple quests, whether that be side-quests or main story, within the campaign. She is also the vendor responsible for repairing [artifacts](../items/starshards.md).
+Annie is one of the NPCs in /missions and is the vendor responsible for repairing the duribility on items. 
+
+## Discription
+
+
+## Items and Events
